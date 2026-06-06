@@ -115,7 +115,7 @@ This solution provides stakeholders with:
 ## Dashboard Preview
 
 ### Portfolio Overview
-![Portfolio Overview](images/portfolio-overview.png)
+![Dashboard](/Dashboard.png)
 
 ### Financial Performance
 ![Financial Performance](images/financial-performance.png)
