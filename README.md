@@ -123,8 +123,6 @@ This solution provides stakeholders with:
 ### Schedule Tracking
 ![Schedule Tracking](images/schedule-tracking.png)
 
-> Replace the placeholder images above with screenshots from your Power BI dashboard.
-
 ---
 
 ## Repository Contents
@@ -141,17 +139,6 @@ This solution provides stakeholders with:
 │   └── Project_Overview.pdf
 └── README.md
 ```
-
----
-
-## About Me
-
-I am a data and research professional with 9+ years of experience supporting strategic decision-making through data analysis, reporting, and process improvement across academic, energy, and manufacturing sectors. My interests include business intelligence, data analytics, performance measurement, and transforming complex data into actionable insights.
-
-### Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-ID
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
 
 ---
 
