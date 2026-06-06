@@ -116,7 +116,7 @@ This solution provides stakeholders with:
 
 ### Portfolio Overview
 ![Dashboard](/Dashboard.png)
-
+<!-- 
 ### Financial Performance
 ![Financial Performance](images/financial-performance.png)
 
@@ -139,7 +139,7 @@ This solution provides stakeholders with:
 │   └── Project_Overview.pdf
 └── README.md
 ```
-
+-->
 ---
 
 *Note: The data used in this project has been anonymized or generated for demonstration purposes. Any resemblance to actual projects or organizations is purely coincidental.*
