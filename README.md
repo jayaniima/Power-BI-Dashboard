@@ -116,10 +116,12 @@ This solution provides stakeholders with:
 
 ### Portfolio Overview
 ![Dashboard](/Dashboard.png)
-<!-- 
-### Financial Performance
-![Financial Performance](images/financial-performance.png)
 
+### Interactive Dashboard
+https://github.com/user-attachments/assets/9c635985-f0c4-40e6-ba79-350477d5afbc
+
+)
+<!-- 
 ### Schedule Tracking
 ![Schedule Tracking](images/schedule-tracking.png)
 
